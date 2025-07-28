@@ -2,6 +2,7 @@ Here is my Scrimba Challenge! It's just a basic business card but I had fun lear
 
 Click here to view it live: https://tubular-panda-bd0a83.netlify.app/
 
+
 # Getting Started
 Install the dependencies and run the project
 ```
